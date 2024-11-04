@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gemini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gem2005)](https://github.com/Gem2005/github-readme-stats)
 
 <!---
 Gem2005/Gem2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
